@@ -1,0 +1,252 @@
+CustomerID,Month Of Interaction,New/Old Customer,Referral sources,Clothing Section,Journey Stage,Actions,Sales Campaign,Feedback Rating,Channels,ProductID,Product Name,Product Category,Total Amount (in Rs),Outcomes_0,Outcomes_1,Outcomes_2,Outcomes_3,Outcomes_4,Outcomes_5,Touchpoints_E-Commerce,Touchpoints_In-Store,Touchpoints_Social Media,Touchpoints_Website,Cluster
+1,March,1,Friends/Family,1,Awareness,Viewed Product,End of Season Sale,8.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+2,January,1,Social Media Influencer,1,Purchase,Made Purchase,Winter Collection,2.0,1,1001.0,Tshirt,Topwear,690.0,False,False,True,False,False,False,False,False,False,True,2
+3,February,0,Friends/Family,1,Purchase,Made Purchase,End of Season Sale,2.0,1,1002.0,Tshirt,Topwear,2845.0,False,False,True,False,False,False,True,False,False,False,0
+4,January,0,Friends/Family,1,Awareness,Viewed Product,Winter Collection,9.0,1,,,,,False,True,False,False,False,False,False,False,False,True,0
+5,January,0,Friends/Family,1,Purchase,Added to Cart,Winter Collection,5.0,1,1003.0,Shoes,Footwear,3325.0,False,False,True,False,False,False,False,False,True,False,0
+6,March,0,Friends/Family,1,Purchase,Made Purchase,End of Season Sale,8.0,0,1004.0,Co-ord Sets,Topwear,2430.0,False,False,True,False,False,False,False,True,False,False,1
+7,February,1,Friends/Family,1,Purchase,Added to Cart,Winter Collection,10.0,1,1005.0,Shorts,Bottomwear,1145.0,False,False,True,False,False,False,True,False,False,False,2
+8,April,0,Friends/Family,1,Purchase,Made Purchase,New Arrivals,1.0,1,1006.0,Shoes,Footwear,1060.0,False,False,True,False,False,False,True,False,False,False,0
+9,April,1,Friends/Family,1,Purchase,Made Purchase,Summer Collection,7.0,1,1007.0,Shirt,Topwear,1115.0,False,False,True,False,False,False,True,False,False,False,2
+10,March,0,Social Media Influencer,1,Purchase,Made Purchase,New Arrivals,3.0,1,1008.0,Shoes,Footwear,3395.0,False,False,True,False,False,False,True,False,False,False,0
+11,March,0,Friends/Family,1,Purchase,Made Purchase,End of Season Sale,6.0,0,1009.0,Tshirt,Topwear,2365.0,False,False,True,False,False,False,False,True,False,False,1
+12,February,1,Friends/Family,1,Awareness,Viewed Product,Winter Collection,5.0,1,,,,,False,True,False,False,False,False,False,False,True,False,2
+13,April,0,Social Media Influencer,1,Purchase,Made Purchase,Summer Collection,5.0,0,1010.0,Hoodie,Topwear,4350.0,False,False,True,False,False,False,False,True,False,False,1
+14,April,0,Social Media Influencer,1,Purchase,Made Purchase,Summer Collection,5.0,1,1011.0,Sweatshirt,Topwear,505.0,False,False,True,False,False,False,False,False,True,False,0
+15,April,0,Social Media Influencer,1,Purchase,Made Purchase,New Arrivals,1.0,1,1012.0,Joggers,Bottomwear,4175.0,False,False,True,False,False,False,True,False,False,False,0
+16,January,0,Friends/Family,1,Purchase,Made Purchase,New Arrivals,1.0,1,1013.0,Pants,Bottomwear,3045.0,False,False,True,False,False,False,False,False,True,False,0
+17,April,1,Advertisement,1,Purchase,Made Purchase,Summer Collection,3.0,1,1014.0,Shoes,Footwear,3085.0,False,False,True,False,False,False,True,False,False,False,2
+18,January,1,Advertisement,1,Awareness,Viewed Product,Winter Collection,10.0,1,,,,,False,True,False,False,False,False,True,False,False,False,2
+19,February,0,Social Media Influencer,2,Purchase,Made Purchase,End of Season Sale,8.0,1,1015.0,Shoes,Topwear,3045.0,False,False,True,False,False,False,False,False,False,True,0
+20,January,0,Advertisement,2,Purchase,Made Purchase,Winter Collection,5.0,1,1016.0,Sweatshirt,Topwear,3855.0,False,False,True,False,False,False,False,False,False,True,0
+21,February,0,Social Media Influencer,2,Awareness,Viewed Product,New Arrivals,2.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+22,April,1,Friends/Family,1,Awareness,Viewed Product,Summer Collection,8.0,1,,,,,False,True,False,False,False,False,True,False,False,False,2
+23,April,1,Advertisement,1,Purchase,Made Purchase,Summer Collection,2.0,1,1017.0,Joggers,Bottomwear,3700.0,False,False,True,False,False,False,False,False,True,False,2
+24,February,1,Friends/Family,1,Purchase,Made Purchase,End of Season Sale,9.0,1,1018.0,Shirt,Topwear,4145.0,False,False,True,False,False,False,False,False,True,False,2
+25,March,1,Advertisement,2,Purchase,Made Purchase,End of Season Sale,2.0,1,1019.0,Shorts,Bottomwear,1765.0,False,False,True,False,False,False,False,False,False,True,2
+26,February,0,Friends/Family,1,Retention,Posted Review,Winter Collection,9.0,1,1020.0,Hoodie,Topwear,4885.0,False,False,False,False,True,False,False,False,False,True,0
+27,March,0,Advertisement,1,Retention,Posted Review,End of Season Sale,7.0,1,1021.0,Shoes,Footwear,2110.0,False,False,False,False,True,False,False,False,False,True,0
+28,January,0,Friends/Family,1,Purchase,Made Purchase,Winter Collection,8.0,1,1022.0,Shirt,Topwear,2185.0,False,False,True,False,False,False,True,False,False,False,0
+29,January,1,Friends/Family,1,Awareness,Viewed Product,New Arrivals,2.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+30,January,0,Advertisement,1,Awareness,Viewed Product,Winter Collection,7.0,1,,,,,False,True,False,False,False,False,False,False,True,False,0
+31,April,1,Friends/Family,2,Retention,Posted Review,Summer Collection,6.0,1,1023.0,Tshirt,Topwear,505.0,False,False,False,False,True,False,False,False,False,True,2
+32,January,1,Friends/Family,2,Awareness,Viewed Product,Winter Collection,8.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+33,March,0,Friends/Family,1,Awareness,Viewed Product,End of Season Sale,7.0,1,,,,,False,True,False,False,False,False,False,False,True,False,0
+34,January,0,Advertisement,1,Retention,Posted Review,Winter Collection,8.0,1,1024.0,Bagpack,Accessories,1455.0,False,False,False,False,True,False,False,False,True,False,0
+35,February,0,Advertisement,2,Retention,Posted Review,New Arrivals,2.0,1,1025.0,Joggers,Bottomwear,3530.0,False,False,False,False,True,False,False,False,False,True,0
+36,February,1,Friends/Family,2,Purchase,Made Purchase,End of Season Sale,10.0,1,1026.0,Shirt,Topwear,1775.0,False,False,True,False,False,False,False,False,False,True,2
+37,April,1,Friends/Family,2,Awareness,Viewed Product,New Arrivals,7.0,1,,,,,False,True,False,False,False,False,True,False,False,False,2
+38,February,0,Advertisement,1,Awareness,Viewed Product,Winter Collection,8.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+39,March,0,Advertisement,1,Purchase,Made Purchase,New Arrivals,2.0,1,1027.0,Tshirt,Topwear,2110.0,False,False,True,False,False,False,False,False,False,True,0
+40,January,1,Friends/Family,1,Purchase,Made Purchase,Winter Collection,5.0,0,1028.0,Cap,Accessories,1295.0,False,False,True,False,False,False,False,True,False,False,1
+41,April,0,Friends/Family,1,Purchase,Made Purchase,Summer Collection,1.0,1,1029.0,Cap,Accessories,505.0,False,False,True,False,False,False,False,False,True,False,0
+42,January,1,Friends/Family,1,Purchase,Made Purchase,Winter Collection,7.0,1,1030.0,Pants,Bottomwear,4680.0,False,False,True,False,False,False,False,False,False,True,2
+43,January,1,Social Media Influencer,1,Advocacy,Gave Referral,Winter Collection,8.0,1,1031.0,Cap,Accessories,2320.0,False,False,False,True,False,False,False,False,False,True,2
+44,March,0,Advertisement,1,Awareness,Viewed Product,End of Season Sale,6.0,1,,,,,False,True,False,False,False,False,True,False,False,False,0
+45,February,0,Social Media Influencer,1,Advocacy,Gave Referral,End of Season Sale,5.0,1,1032.0,Shoes,Footwear,680.0,False,False,False,True,False,False,False,False,True,False,0
+46,February,0,Advertisement,1,Consideration,Added to Cart,New Arrivals,4.0,0,,,,,True,False,False,False,False,False,False,True,False,False,1
+47,January,0,Advertisement,1,Consideration,Added to Cart,Winter Collection,4.0,0,,,,,True,False,False,False,False,False,False,True,False,False,1
+48,April,1,Advertisement,1,Awareness,Added to Cart,Summer Collection,1.0,1,,,,,False,True,False,False,False,False,True,False,False,False,2
+49,February,1,Advertisement,2,Awareness,Viewed Product,New Arrivals,7.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+50,April,1,Advertisement,1,Advocacy,Made Purchase,Summer Collection,7.0,1,1033.0,Cap,Accessories,2425.0,False,False,False,True,False,False,False,False,False,True,2
+51,February,0,Advertisement,1,Retention,Posted Review,New Arrivals,10.0,1,1034.0,Shoes,Footwear,2225.0,False,False,False,False,True,False,False,False,True,False,0
+52,April,1,Advertisement,1,Awareness,Added to Cart,Summer Collection,10.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+53,March,0,Social Media Influencer,2,Retention,Posted Review,Summer Collection,2.0,1,1035.0,Pants,Bottomwear,4550.0,False,False,False,False,True,False,True,False,False,False,0
+54,April,0,Friends/Family,1,Awareness,Viewed Product,New Arrivals,2.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+55,March,0,Friends/Family,1,Consideration,Added to Cart,End of Season Sale,1.0,1,,,,,True,False,False,False,False,False,False,False,True,False,0
+56,March,0,Social Media Influencer,1,Purchase,Made Purchase,End of Season Sale,10.0,1,1036.0,Pants,Bottomwear,1500.0,False,True,False,False,False,False,False,False,True,False,0
+57,April,0,Social Media Influencer,1,Retention,Posted Review,New Arrivals,8.0,1,1037.0,Shorts,Bottomwear,1055.0,False,False,False,False,True,False,False,False,True,False,0
+58,March,0,Social Media Influencer,2,Awareness,Viewed Product,New Arrivals,8.0,1,,,,,False,True,False,False,False,False,False,False,False,True,0
+59,January,1,Social Media Influencer,1,Advocacy,Gave Referral,New Arrivals,1.0,1,1038.0,Joggers,Bottomwear,1255.0,False,False,False,True,False,False,True,False,False,False,2
+60,March,0,Advertisement,1,Purchase,Made Purchase,End of Season Sale,8.0,1,1039.0,Pants,Bottomwear,4770.0,False,True,False,False,False,False,True,False,False,False,0
+61,February,1,Friends/Family,1,Purchase,Added to Cart,Winter Collection,9.0,1,1040.0,Shoes,Footwear,2815.0,False,False,True,False,False,False,True,False,False,False,2
+62,April,1,Advertisement,1,Advocacy,Gave Referral,New Arrivals,8.0,1,1041.0,Shoes,Footwear,2595.0,False,False,False,True,False,False,False,False,False,True,2
+63,January,0,Friends/Family,1,Purchase,Made Purchase,Winter Collection,6.0,1,1042.0,Joggers,Bottomwear,2015.0,False,False,True,False,False,False,True,False,False,False,0
+64,April,0,Friends/Family,2,Retention,Posted Review,Summer Collection,6.0,1,,,,,False,False,False,False,True,False,True,False,False,False,0
+65,February,0,Social Media Influencer,2,Retention,Posted Review,End of Season Sale,3.0,1,1044.0,Tshirt,Topwear,2860.0,False,False,False,False,True,False,False,False,True,False,0
+66,February,1,Advertisement,2,Awareness,Viewed Product,Winter Collection,5.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+67,February,0,Social Media Influencer,2,Retention,Posted Review,End of Season Sale,5.0,1,1045.0,Shorts,Bottomwear,3990.0,False,False,False,False,True,False,False,False,False,True,0
+68,March,1,Advertisement,1,Awareness,Added to Cart,End of Season Sale,9.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+69,March,0,Friends/Family,1,Advocacy,Gave Referral,End of Season Sale,10.0,1,1046.0,Cap,Accessories,1095.0,False,False,False,True,False,False,False,False,False,True,0
+70,April,0,Social Media Influencer,2,Awareness,Viewed Product,Summer Collection,7.0,1,,,,,False,True,False,False,False,False,True,False,False,False,0
+71,April,1,Social Media Influencer,1,Awareness,Viewed Product,Summer Collection,2.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+72,January,1,Friends/Family,1,Purchase,Made Purchase,Winter Collection,6.0,1,1047.0,Hoodie,Topwear,1260.0,False,True,False,False,False,False,False,False,True,False,2
+73,January,0,Friends/Family,1,Retention,Posted Review,Winter Collection,9.0,1,1048.0,Joggers,Bottomwear,4290.0,False,False,False,False,True,False,False,False,True,False,0
+74,April,1,Friends/Family,1,Consideration,Added to Cart,Summer Collection,1.0,0,,,,,True,False,False,False,False,False,False,True,False,False,1
+75,March,1,Social Media Influencer,2,Awareness,Viewed Product,End of Season Sale,9.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+76,February,1,Advertisement,1,Consideration,Added to Cart,New Arrivals,9.0,0,,,,,True,False,False,False,False,False,False,True,False,False,1
+77,April,1,Social Media Influencer,1,Advocacy,Made Purchase,Summer Collection,9.0,1,1049.0,Pants,Bottomwear,4675.0,False,False,False,True,False,False,False,False,False,True,2
+78,January,1,Advertisement,1,Advocacy,Made Purchase,Winter Collection,5.0,1,1050.0,Shoes,Footwear,3620.0,False,False,False,True,False,False,False,False,False,True,2
+79,March,0,Social Media Influencer,1,Awareness,Viewed Product,Summer Collection,9.0,1,,,,,False,True,False,False,False,False,False,False,False,True,0
+80,April,0,Social Media Influencer,2,Retention,Posted Review,Summer Collection,4.0,1,1051.0,Co-ord Sets,Topwear,2240.0,False,False,False,False,True,False,False,False,True,False,0
+81,April,1,Advertisement,1,Retention,Posted Review,Summer Collection,2.0,1,1052.0,Top,Topwear,2420.0,False,False,False,False,True,False,False,False,False,True,2
+82,March,0,Advertisement,1,Purchase,Made Purchase,New Arrivals,6.0,1,1053.0,Bagpack,Accessories,2510.0,False,False,True,False,False,False,False,False,True,False,0
+83,April,0,Social Media Influencer,1,Advocacy,Made Purchase,Summer Collection,8.0,1,1054.0,Shoes,Footwear,1450.0,False,False,False,True,False,False,False,False,False,True,0
+84,March,1,Social Media Influencer,1,Retention,Posted Review,New Arrivals,6.0,1,1055.0,Shoes,Footwear,2365.0,False,False,False,False,True,False,True,False,False,False,2
+85,February,0,Advertisement,1,Retention,Posted Review,New Arrivals,3.0,1,1056.0,Shirt,Topwear,1880.0,False,False,False,False,True,False,False,False,True,False,0
+86,March,1,Advertisement,2,Advocacy,Gave Referral,End of Season Sale,6.0,1,1057.0,Shoes,Footwear,2550.0,False,False,False,True,False,False,True,False,False,False,2
+87,March,1,Advertisement,1,Consideration,Added to Cart,Summer Collection,4.0,0,,,,,True,False,False,False,False,False,False,True,False,False,1
+88,March,0,Social Media Influencer,2,Purchase,Added to Cart,Summer Collection,9.0,0,1058.0,Tshirt,Topwear,4145.0,False,False,True,False,False,False,False,True,False,False,1
+89,April,1,Advertisement,1,Retention,Posted Review,New Arrivals,9.0,1,1059.0,Top,Topwear,3615.0,False,False,False,False,True,False,False,False,False,True,2
+90,April,1,Social Media Influencer,1,Awareness,Viewed Product,Summer Collection,7.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+91,March,1,Advertisement,1,Advocacy,Gave Referral,Summer Collection,3.0,1,1060.0,Shorts,Bottomwear,4500.0,False,False,False,True,False,False,False,False,False,True,2
+92,April,1,Advertisement,2,Purchase,Made Purchase,Summer Collection,6.0,0,1061.0,Joggers,Bottomwear,3700.0,False,False,True,False,False,False,False,True,False,False,1
+93,January,1,Social Media Influencer,2,Advocacy,Gave Referral,Winter Collection,8.0,1,1062.0,Shoes,Footwear,680.0,False,False,False,True,False,False,False,False,False,True,2
+94,January,0,Advertisement,2,Purchase,Made Purchase,Winter Collection,6.0,0,1063.0,Shoes,Footwear,2845.0,False,False,True,False,False,False,False,True,False,False,1
+95,April,0,Social Media Influencer,1,Retention,Posted Review,Summer Collection,7.0,1,1064.0,Shoes,Footwear,4890.0,False,False,False,False,True,False,False,False,False,True,0
+96,April,1,Social Media Influencer,1,Advocacy,Gave Referral,Summer Collection,9.0,1,1065.0,Pants,Bottomwear,1760.0,False,False,False,True,False,False,False,False,True,False,2
+97,March,1,Advertisement,2,Retention,Posted Review,End of Season Sale,5.0,1,1066.0,Hoodie,Topwear,4330.0,False,False,False,False,True,False,True,False,False,False,2
+98,February,0,Social Media Influencer,1,Consideration,Added to Cart,New Arrivals,1.0,1,,,,,True,False,False,False,False,False,False,False,False,True,0
+99,April,1,Social Media Influencer,1,Awareness,Added to Cart,Summer Collection,10.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+100,January,0,Social Media Influencer,1,Awareness,Viewed Product,Winter Collection,7.0,1,,,,,False,True,False,False,False,False,True,False,False,False,0
+101,March,1,Social Media Influencer,1,Advocacy,Gave Referral,Summer Collection,5.0,1,1067.0,Tshirt,Topwear,2550.0,False,False,False,True,False,False,False,False,False,True,2
+102,April,1,Social Media Influencer,2,Retention,Posted Review,Summer Collection,3.0,1,1068.0,Shorts,Bottomwear,1485.0,False,False,False,False,True,False,False,False,False,True,2
+103,January,1,Social Media Influencer,2,Advocacy,Made Purchase,Winter Collection,9.0,1,1069.0,Joggers,Bottomwear,4890.0,False,False,False,True,False,False,False,False,False,True,2
+104,January,1,Social Media Influencer,2,Consideration,Added to Cart,Winter Collection,1.0,0,,,,,True,False,False,False,False,False,False,True,False,False,1
+105,February,1,Advertisement,2,Awareness,Added to Cart,End of Season Sale,6.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+106,March,1,Social Media Influencer,2,Purchase,Made Purchase,New Arrivals,6.0,1,1070.0,Pants,Bottomwear,1110.0,False,True,False,False,False,False,True,False,False,False,2
+107,March,1,Social Media Influencer,1,Retention,Posted Review,End of Season Sale,3.0,1,1071.0,Pants,Bottomwear,3790.0,False,False,False,False,True,False,False,False,True,False,2
+108,February,0,Social Media Influencer,1,Retention,Posted Review,Winter Collection,6.0,1,1072.0,Shorts,Bottomwear,3845.0,False,False,False,False,True,False,False,False,True,False,0
+109,February,0,Advertisement,2,Advocacy,Gave Referral,End of Season Sale,10.0,1,1073.0,Joggers,Bottomwear,4605.0,False,False,False,True,False,False,False,False,True,False,0
+110,March,0,Social Media Influencer,1,Advocacy,Gave Referral,Summer Collection,3.0,1,1074.0,Shoes,Footwear,4500.0,False,False,False,True,False,False,True,False,False,False,0
+111,March,1,Social Media Influencer,2,Awareness,Viewed Product,Summer Collection,8.0,1,,,,,False,True,False,False,False,False,False,False,True,False,2
+112,April,1,Advertisement,1,Purchase,Added to Cart,Summer Collection,10.0,0,1075.0,Shoes,Footwear,1910.0,False,False,True,False,False,False,False,True,False,False,1
+113,April,1,Advertisement,1,Consideration,Viewed Product,Summer Collection,2.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+114,February,1,Social Media Influencer,1,Retention,Posted Review,Winter Collection,9.0,1,1076.0,Shoes,Footwear,990.0,False,False,False,False,True,False,True,False,False,False,2
+115,April,1,Social Media Influencer,1,Purchase,Made Purchase,Summer Collection,3.0,1,1077.0,Shoes,Footwear,1510.0,False,False,True,False,False,False,False,False,False,True,2
+116,January,1,Advertisement,2,Retention,Posted Review,New Arrivals,5.0,1,1078.0,Shorts,Bottomwear,1260.0,False,False,False,False,True,False,False,False,False,True,2
+117,April,1,Social Media Influencer,1,Awareness,Added to Cart,Summer Collection,10.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+118,April,0,Social Media Influencer,2,Retention,Posted Review,New Arrivals,3.0,1,1079.0,Co-ord Sets,Topwear,4955.0,False,False,False,False,True,False,False,False,False,True,0
+119,January,1,Social Media Influencer,2,Awareness,Viewed Product,New Arrivals,2.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+120,February,0,Social Media Influencer,1,Consideration,Viewed Product,Winter Collection,6.0,1,,,,,False,True,False,False,False,False,False,False,False,True,0
+121,January,0,Social Media Influencer,2,Consideration,Viewed Product,Winter Collection,5.0,1,,,,,False,True,False,False,False,False,True,False,False,False,0
+122,April,1,Social Media Influencer,1,Awareness,Viewed Product,New Arrivals,10.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+123,February,1,Social Media Influencer,2,Awareness,Added to Cart,New Arrivals,9.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+124,April,0,Social Media Influencer,1,Retention,Made Purchase,Summer Collection,5.0,1,1080.0,Tshirt,Topwear,3540.0,False,False,False,False,True,False,False,False,True,False,0
+125,January,0,Advertisement,1,Awareness,Viewed Product,Winter Collection,9.0,1,,,,,False,True,False,False,False,False,True,False,False,False,0
+126,January,1,Advertisement,1,Awareness,Viewed Product,Winter Collection,5.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+127,April,1,Advertisement,2,Purchase,Added to Cart,Summer Collection,8.0,1,1081.0,Pants,Bottomwear,4330.0,False,False,True,False,False,False,False,False,False,True,2
+128,March,0,Social Media Influencer,1,Awareness,Viewed Product,New Arrivals,7.0,1,,,,,False,True,False,False,False,False,False,False,True,False,0
+129,March,1,Social Media Influencer,1,Awareness,Viewed Product,Summer Collection,6.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+130,January,1,Advertisement,2,Awareness,Viewed Product,Winter Collection,2.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+131,January,1,Social Media Influencer,1,Retention,Made Purchase,Winter Collection,5.0,1,1082.0,Hoodie,Topwear,1535.0,False,False,False,False,True,False,False,False,False,True,2
+132,March,0,Social Media Influencer,2,Retention,Posted Review,New Arrivals,7.0,1,1083.0,Bagpack,Accessories,4975.0,False,False,False,False,True,False,False,False,False,True,0
+133,March,0,Social Media Influencer,1,Awareness,Added to Cart,New Arrivals,7.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+134,April,0,Social Media Influencer,1,Purchase,Added to Cart,Summer Collection,5.0,1,1084.0,Shoes,Footwear,685.0,False,False,True,False,False,False,True,False,False,False,0
+135,April,1,Social Media Influencer,2,Awareness,Viewed Product,Summer Collection,6.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+136,March,1,Social Media Influencer,1,Awareness,Viewed Product,End of Season Sale,8.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+137,April,0,Social Media Influencer,1,Retention,Posted Review,Summer Collection,3.0,1,1085.0,Bagpack,Accessories,1595.0,False,False,False,False,True,False,True,False,False,False,0
+138,April,0,Social Media Influencer,1,Consideration,Added to Cart,Summer Collection,4.0,0,,,,,True,False,False,False,False,False,False,True,False,False,1
+139,February,0,Advertisement,1,Purchase,Made Purchase,Winter Collection,5.0,1,1086.0,Pants,Bottomwear,1485.0,False,True,False,False,False,False,False,False,False,True,0
+140,April,1,Advertisement,2,Awareness,Added to Cart,New Arrivals,6.0,1,,,,,False,True,False,False,False,False,True,False,False,False,2
+141,January,0,Social Media Influencer,1,Awareness,Viewed Product,Winter Collection,3.0,1,,,,,False,True,False,False,False,False,True,False,False,False,0
+142,April,0,Advertisement,0,Purchase,Added to Cart,Summer Collection,9.0,1,1087.0,Shoes,Footwear,2880.0,False,False,True,False,False,False,True,False,False,False,0
+143,April,1,Advertisement,1,Retention,Posted Review,Summer Collection,4.0,1,1088.0,Shorts,Bottomwear,2425.0,False,False,False,False,True,False,False,False,False,True,2
+144,March,1,Advertisement,1,Awareness,Viewed Product,Summer Collection,5.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+145,January,1,Advertisement,0,Retention,Posted Review,New Arrivals,5.0,1,1089.0,Shirt,Topwear,3700.0,False,False,False,False,True,False,False,False,True,False,2
+146,April,0,Social Media Influencer,1,Awareness,Viewed Product,Summer Collection,3.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+147,April,1,Social Media Influencer,2,Awareness,Viewed Product,Summer Collection,4.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+148,February,1,Advertisement,2,Awareness,Viewed Product,End of Season Sale,10.0,1,,,,,False,True,False,False,False,False,True,False,False,False,2
+149,April,0,Social Media Influencer,2,Consideration,Added to Cart,Summer Collection,4.0,1,,,,,True,False,False,False,False,False,False,False,True,False,0
+150,April,1,Social Media Influencer,0,Retention,Posted Review,Summer Collection,2.0,1,1090.0,Co-ord Sets,Topwear,3795.0,False,False,False,False,True,False,False,False,False,True,2
+151,February,0,Social Media Influencer,1,Awareness,Viewed Product,End of Season Sale,9.0,1,,,,,False,True,False,False,False,False,False,False,True,False,0
+152,March,0,Advertisement,2,Awareness,Viewed Product,Summer Collection,6.0,1,,,,,False,True,False,False,False,False,False,False,False,True,0
+153,April,1,Advertisement,0,Consideration,Viewed Product,New Arrivals,4.0,1,,,,,False,True,False,False,False,False,True,False,False,False,2
+154,February,1,Social Media Influencer,1,Consideration,Viewed Product,End of Season Sale,7.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+155,January,1,Advertisement,0,Awareness,Viewed Product,Winter Collection,6.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+156,March,1,Advertisement,2,Purchase,Made Purchase,Summer Collection,7.0,1,1091.0,Co-ord Sets,Topwear,4175.0,False,True,False,False,False,False,False,False,False,True,2
+157,January,1,Social Media Influencer,2,Consideration,Added to Cart,Winter Collection,4.0,1,,,,,True,False,False,False,False,False,False,False,False,True,2
+158,January,1,Social Media Influencer,2,Retention,Posted Review,Winter Collection,7.0,1,1092.0,Co-ord Sets,Topwear,4755.0,False,False,False,False,True,False,False,False,False,True,2
+159,February,0,Advertisement,0,Consideration,Added to Cart,Winter Collection,7.0,0,,,,,True,False,False,False,False,False,False,True,False,False,1
+160,April,0,Advertisement,0,Awareness,Viewed Product,New Arrivals,8.0,1,,,,,False,True,False,False,False,False,True,False,False,False,0
+161,February,1,Social Media Influencer,2,Consideration,Viewed Product,Winter Collection,4.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+162,February,0,Social Media Influencer,0,Purchase,Added to Cart,End of Season Sale,10.0,1,1093.0,Tshirt,Topwear,2860.0,False,False,True,False,False,False,False,False,False,True,0
+163,February,1,Advertisement,2,Consideration,Viewed Product,End of Season Sale,7.0,1,,,,,False,True,False,False,False,False,False,False,True,False,2
+164,February,0,Social Media Influencer,2,Awareness,Viewed Product,End of Season Sale,8.0,1,,,,,False,True,False,False,False,False,False,False,False,True,0
+165,March,0,Social Media Influencer,1,Purchase,Made Purchase,New Arrivals,8.0,1,1094.0,Pants,Bottomwear,3530.0,False,False,True,False,False,False,False,False,True,False,0
+166,April,0,Social Media Influencer,0,Consideration,Added to Cart,Summer Collection,4.0,0,,,,,True,False,False,False,False,False,False,True,False,False,1
+167,January,1,Social Media Influencer,2,Awareness,Viewed Product,New Arrivals,7.0,1,,,,,False,True,False,False,False,False,True,False,False,False,2
+168,January,0,Advertisement,2,Purchase,Added to Cart,New Arrivals,6.0,1,1095.0,Co-ord Sets,Topwear,1135.0,False,False,True,False,False,False,False,False,False,True,0
+169,April,1,Social Media Influencer,0,Awareness,Viewed Product,New Arrivals,7.0,1,,,,,False,True,False,False,False,False,False,False,True,False,2
+170,January,0,Advertisement,1,Awareness,Viewed Product,New Arrivals,6.0,1,,,,,False,True,False,False,False,False,False,False,True,False,0
+171,April,0,Social Media Influencer,1,Purchase,Made Purchase,New Arrivals,8.0,0,1096.0,Tshirt,Topwear,2795.0,False,False,True,False,False,False,False,True,False,False,1
+172,January,0,Social Media Influencer,2,Awareness,Viewed Product,Winter Collection,8.0,1,,,,,False,True,False,False,False,False,True,False,False,False,0
+173,February,0,Advertisement,0,Purchase,Made Purchase,Winter Collection,10.0,1,1097.0,Pants,Bottomwear,4390.0,False,True,False,False,False,False,False,False,False,True,0
+174,January,0,Advertisement,1,Purchase,Made Purchase,Winter Collection,7.0,1,1098.0,Co-ord Sets,Topwear,1060.0,False,False,True,False,False,False,False,False,False,True,0
+175,April,1,Social Media Influencer,0,Awareness,Viewed Product,Summer Collection,6.0,1,,,,,False,True,False,False,False,False,True,False,False,False,2
+176,April,1,Advertisement,0,Purchase,Made Purchase,New Arrivals,6.0,1,1099.0,Bagpack,Accessories,2605.0,False,False,True,False,False,False,True,False,False,False,2
+177,April,0,Social Media Influencer,2,Awareness,Added to Cart,Summer Collection,5.0,1,,,,,False,True,False,False,False,False,False,False,False,True,0
+178,April,0,Advertisement,1,Purchase,Made Purchase,Summer Collection,6.0,1,1100.0,Bagpack,Accessories,2320.0,False,False,True,False,False,False,False,False,True,False,0
+179,April,0,Advertisement,2,Consideration,Added to Cart,Summer Collection,9.0,0,,,,,True,False,False,False,False,False,False,True,False,False,1
+180,March,0,Advertisement,1,Awareness,Viewed Product,New Arrivals,10.0,1,,,,,False,True,False,False,False,False,False,False,True,False,0
+181,March,1,Social Media Influencer,1,Purchase,Made Purchase,Summer Collection,6.0,0,1101.0,Bagpack,Accessories,3790.0,False,False,True,False,False,False,False,True,False,False,1
+182,January,0,Advertisement,1,Awareness,Viewed Product,Winter Collection,10.0,1,,,,,False,True,False,False,False,False,True,False,False,False,0
+183,April,1,Advertisement,1,Awareness,Viewed Product,New Arrivals,4.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+184,January,0,Advertisement,1,Purchase,Made Purchase,Winter Collection,10.0,0,1102.0,Co-ord Sets,Topwear,3755.0,False,False,True,False,False,False,False,True,False,False,1
+185,April,1,Social Media Influencer,0,Purchase,Made Purchase,Summer Collection,6.0,1,1103.0,Shorts,Bottomwear,4485.0,False,False,True,False,False,False,False,False,False,True,2
+186,April,0,Social Media Influencer,2,Consideration,Added to Cart,Summer Collection,3.0,1,,,,,True,False,False,False,False,False,True,False,False,False,0
+187,March,0,Social Media Influencer,0,Consideration,Added to Cart,Summer Collection,4.0,0,,,,,True,False,False,False,False,False,False,True,False,False,1
+188,March,1,Social Media Influencer,1,Awareness,Viewed Product,End of Season Sale,4.0,1,,,,,False,True,False,False,False,False,True,False,False,False,2
+189,February,0,Social Media Influencer,2,Consideration,Added to Cart,New Arrivals,1.0,0,,,,,True,False,False,False,False,False,False,True,False,False,1
+190,March,0,Advertisement,1,Awareness,Viewed Product,Summer Collection,10.0,1,,,,,False,True,False,False,False,False,True,False,False,False,0
+191,February,0,Social Media Influencer,2,Awareness,Viewed Product,End of Season Sale,5.0,1,,,,,False,True,False,False,False,False,True,False,False,False,0
+192,February,1,Social Media Influencer,0,Consideration,Added to Cart,End of Season Sale,4.0,1,,,,,True,False,False,False,False,False,True,False,False,False,2
+193,February,0,Social Media Influencer,2,Purchase,Made Purchase,End of Season Sale,9.0,0,1104.0,Joggers,Bottomwear,4890.0,False,False,True,False,False,False,False,True,False,False,1
+194,February,0,Social Media Influencer,2,Purchase,Made Purchase,Winter Collection,8.0,1,1105.0,Top,Topwear,4575.0,False,False,True,False,False,False,False,False,True,False,0
+195,February,1,Social Media Influencer,2,Purchase,Made Purchase,End of Season Sale,3.0,1,1106.0,Joggers,Bottomwear,2425.0,False,False,True,False,False,False,True,False,False,False,2
+196,January,1,Social Media Influencer,2,Awareness,Viewed Product,Winter Collection,7.0,1,,,,,False,True,False,False,False,False,False,False,True,False,2
+197,March,1,Advertisement,2,Consideration,Added to Cart,New Arrivals,7.0,1,,,,,True,False,False,False,False,False,False,False,False,True,2
+198,February,0,Advertisement,1,Consideration,Added to Cart,End of Season Sale,10.0,1,,,,,True,False,False,False,False,False,False,False,False,True,0
+199,April,0,Advertisement,2,Purchase,Made Purchase,New Arrivals,9.0,1,1107.0,Co-ord Sets,Topwear,2360.0,False,False,True,False,False,False,False,False,False,True,0
+200,March,0,Advertisement,2,Consideration,Added to Cart,Summer Collection,4.0,0,,,,,True,False,False,False,False,False,False,True,False,False,1
+201,March,1,Social Media Influencer,0,Awareness,Viewed Product,End of Season Sale,3.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+202,February,0,Advertisement,2,Awareness,Added to Cart,End of Season Sale,7.0,1,,,,,False,True,False,False,False,False,False,False,True,False,0
+203,January,0,Social Media Influencer,0,Awareness,Added to Cart,Winter Collection,10.0,1,,,,,False,True,False,False,False,False,False,False,False,True,0
+204,February,1,Social Media Influencer,1,Consideration,Added to Cart,Winter Collection,1.0,1,,,,,True,False,False,False,False,False,False,False,False,True,2
+205,January,1,Advertisement,2,Awareness,Viewed Product,New Arrivals,7.0,1,,,,,False,True,False,False,False,False,True,False,False,False,2
+206,April,1,Social Media Influencer,0,Awareness,Viewed Product,Summer Collection,2.0,1,,,,,False,True,False,False,False,False,True,False,False,False,2
+207,March,1,Social Media Influencer,0,Awareness,Viewed Product,End of Season Sale,5.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+208,April,1,Social Media Influencer,1,Awareness,Viewed Product,New Arrivals,4.0,1,,,,,False,True,False,False,False,False,False,False,True,False,2
+209,January,0,Advertisement,2,Awareness,Viewed Product,Winter Collection,3.0,1,,,,,False,True,False,False,False,False,False,False,True,False,0
+210,January,1,Social Media Influencer,2,Consideration,Added to Cart,Winter Collection,4.0,1,,,,,True,False,False,False,False,False,False,False,False,True,2
+211,April,0,Social Media Influencer,0,Purchase,Made Purchase,Summer Collection,8.0,1,1108.0,Joggers,Bottomwear,3540.0,False,True,False,False,False,False,True,False,False,False,0
+212,January,0,Social Media Influencer,2,Consideration,Added to Cart,Winter Collection,7.0,1,,,,,True,False,False,False,False,False,False,False,True,False,0
+213,April,1,Social Media Influencer,0,Awareness,Viewed Product,Summer Collection,5.0,1,,,,,False,True,False,False,False,False,True,False,False,False,2
+214,March,1,Social Media Influencer,2,Purchase,Made Purchase,New Arrivals,4.0,1,1109.0,Shirt,Topwear,725.0,False,False,True,False,False,False,False,False,True,False,2
+215,April,1,Advertisement,0,Consideration,Added to Cart,Summer Collection,4.0,1,,,,,True,False,False,False,False,False,False,False,False,True,2
+216,March,0,Social Media Influencer,2,Consideration,Added to Cart,Summer Collection,5.0,1,,,,,True,False,False,False,False,False,False,False,False,True,0
+217,April,1,Social Media Influencer,1,Consideration,Added to Cart,Summer Collection,3.0,1,,,,,True,False,False,False,False,False,False,False,True,False,2
+218,January,1,Social Media Influencer,2,Purchase,Made Purchase,Winter Collection,7.0,1,1110.0,Shoes,Footwear,3905.0,False,False,True,False,False,False,False,False,False,True,2
+219,April,1,Social Media Influencer,2,Purchase,Made Purchase,Summer Collection,7.0,1,1111.0,Tshirt,Topwear,2185.0,False,False,True,False,False,False,False,False,True,False,2
+220,January,1,Social Media Influencer,1,Purchase,Made Purchase,New Arrivals,6.0,1,1112.0,Shirt,Topwear,3935.0,False,False,True,False,False,False,False,False,True,False,2
+221,April,1,Social Media Influencer,2,Purchase,Made Purchase,New Arrivals,6.0,1,1113.0,Shirt,Topwear,1625.0,False,False,True,False,False,False,False,False,True,False,2
+222,April,0,Social Media Influencer,1,Purchase,Made Purchase,Summer Collection,9.0,1,1114.0,Shoes,Footwear,3620.0,False,False,True,False,False,False,False,False,True,False,0
+223,February,0,Advertisement,2,Purchase,Made Purchase,End of Season Sale,9.0,1,1115.0,Shirt,Topwear,1485.0,False,True,False,False,False,False,False,False,True,False,0
+224,January,0,Advertisement,0,Consideration,Added to Cart,Winter Collection,3.0,1,,,,,True,False,False,False,False,False,False,False,True,False,0
+225,February,1,Social Media Influencer,0,Purchase,Made Purchase,End of Season Sale,8.0,1,1116.0,Shoes,Footwear,2945.0,False,False,True,False,False,False,False,False,True,False,2
+226,January,1,Social Media Influencer,2,Consideration,Added to Cart,Winter Collection,5.0,1,,,,,True,False,False,False,False,False,False,False,False,True,2
+227,February,1,Advertisement,2,Consideration,Added to Cart,End of Season Sale,4.0,1,,,,,True,False,False,False,False,False,False,False,True,False,2
+228,March,0,Social Media Influencer,2,Awareness,Viewed Product,Summer Collection,3.0,1,,,,,False,True,False,False,False,False,False,False,True,False,0
+229,April,1,Social Media Influencer,0,Consideration,Added to Cart,New Arrivals,8.0,1,,,,,True,False,False,False,False,False,False,False,True,False,2
+230,January,1,Advertisement,2,Awareness,Viewed Product,Winter Collection,6.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+231,January,1,Social Media Influencer,0,Consideration,Added to Cart,Winter Collection,8.0,1,,,,,True,False,False,False,False,False,False,False,True,False,2
+232,April,0,Social Media Influencer,1,Awareness,Viewed Product,Summer Collection,9.0,1,,,,,False,True,False,False,False,False,False,False,False,True,0
+233,January,1,Social Media Influencer,0,Awareness,Viewed Product,New Arrivals,4.0,1,,,,,False,True,False,False,False,False,False,False,True,False,2
+234,January,0,Social Media Influencer,0,Consideration,Added to Cart,Winter Collection,7.0,1,,,,,True,False,False,False,False,False,False,False,False,True,0
+235,February,1,Advertisement,1,Consideration,Added to Cart,New Arrivals,4.0,1,,,,,True,False,False,False,False,False,False,False,True,False,2
+236,January,0,Advertisement,0,Consideration,Added to Cart,Winter Collection,3.0,1,,,,,False,True,False,False,False,False,False,False,True,False,0
+237,March,0,Advertisement,2,Awareness,Viewed Product,End of Season Sale,7.0,1,,,,,False,True,False,False,False,False,False,False,True,False,0
+238,March,0,Social Media Influencer,2,Consideration,Added to Cart,New Arrivals,10.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+239,April,1,Advertisement,0,Awareness,Viewed Product,New Arrivals,6.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+240,January,1,Social Media Influencer,2,Consideration,Added to Cart,Winter Collection,8.0,1,,,,,False,True,False,False,False,False,False,False,True,False,2
+241,April,0,Advertisement,0,Awareness,Viewed Product,Summer Collection,7.0,1,,,,,False,True,False,False,False,False,False,False,False,True,0
+242,March,0,Social Media Influencer,2,Consideration,Added to Cart,End of Season Sale,7.0,1,,,,,False,True,False,False,False,False,False,False,True,False,0
+243,January,1,Social Media Influencer,2,Consideration,Added to Cart,Winter Collection,4.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+244,January,1,Social Media Influencer,0,Consideration,Added to Cart,New Arrivals,5.0,1,,,,,False,True,False,False,False,False,False,False,True,False,2
+245,April,0,Social Media Influencer,2,Awareness,Viewed Product,Summer Collection,8.0,1,,,,,False,True,False,False,False,False,False,False,True,False,0
+246,March,1,Social Media Influencer,0,Consideration,Added to Cart,End of Season Sale,8.0,1,,,,,False,True,False,False,False,False,False,False,True,False,2
+247,January,1,Social Media Influencer,2,Consideration,Added to Cart,Winter Collection,3.0,0,,,,,False,True,False,False,False,False,False,True,False,False,1
+248,April,1,Advertisement,2,Consideration,Added to Cart,New Arrivals,8.0,1,,,,,False,True,False,False,False,False,False,False,False,True,2
+249,March,1,Advertisement,1,Awareness,Viewed Product,New Arrivals,4.0,1,,,,,False,True,False,False,False,False,False,False,True,False,2
+250,April,0,Social Media Influencer,1,Consideration,Added to Cart,New Arrivals,8.0,1,,,,,False,True,False,False,False,False,False,False,True,False,0
+64,,2,,2,,,End of Season Sale,,2,1043.0,Cap,Accessories,1725.0,False,False,False,False,False,True,False,False,False,False,2
