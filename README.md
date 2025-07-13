@@ -162,5 +162,12 @@ This project is open -source under the **MIT License**. See the [LICENSE](LICE
 
 ---
 
+## 🙋‍♂️ Author
+
+Kardam Singhal  
+🔗 [LinkedIn](https://www.linkedin.com/in/kardamsinghal)  
+📫 Email: kardamsinghalllll@gmail.com
+
+---
 
 If you find this helpful, please **star ⭐** the repo and share feedback!
